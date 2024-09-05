@@ -1,7 +1,7 @@
 # Site settings
-title: Hux Blog
+title: zxy0624 Blog
 SEOTitle: 曾祥宇的博客 | zxy Blog
-header-img: img/home-bg.jpg
+header-img: file:///C:/Users/16836/Pictures/reI1722767571937.jpeg
 email: 1683609586@qq.com
 description: "这里是曾祥宇的个人博客，与你一起发现更大的世界 "
 keyword: "曾祥宇, zxy0624，机器人，互联网"
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: zxy0624
 
 # Netease settings
 netease_comment: false
@@ -93,10 +93,4 @@ friends:
   [
     { title: "乱序（Midare）", href: "http://mida.re/" },
     { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
   ]
