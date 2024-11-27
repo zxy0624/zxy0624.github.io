@@ -1,7 +1,6 @@
-[Hux Blog](https://huangxuan.me)
+[Zeng Blog](https://zxy0624.github.io/)
 ================================
 
-> I never expected this to become popular.
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
