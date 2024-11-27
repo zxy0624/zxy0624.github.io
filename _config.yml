@@ -73,7 +73,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "浪里小白龙 <br> React Team @ Meta"
+sidebar-about-description: "浪里小白龙 <br>  A Student @ Wuli"
 sidebar-avatar: img/reI1722767571937.jpeg
 ###https://github.com/Huxpro.png 
 # use absolute URL, seeing it's used in both `/` and `/about/`
